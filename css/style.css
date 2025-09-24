@@ -186,7 +186,9 @@ a, a:hover {
 .unslate_co--site-nav .unslate_co--site-logo {
   font-size: 1.7rem;
   color: #fff;
-  font-weight: 700;
+  font-weight: 900;
+  
+  
 }
 
 .unslate_co--site-nav .unslate_co--site-logo span {
@@ -209,7 +211,7 @@ a, a:hover {
 }
 
 .unslate_co--site-nav .site-nav-ul > li > a, .unslate_co--site-nav .site-nav-ul-none-onepage > li > a {
-  padding: 10px 7px;
+  padding: 10px 10px;
   display: block;
   color: #fff;
   font-size: 14px;
